@@ -1,0 +1,9 @@
+.about{
+  width: 600px;
+  margin: 0 auto;
+}
+
+.negative {
+    color: white;
+    background-color: black;
+}
